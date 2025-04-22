@@ -1,0 +1,6 @@
+print("i am noor")
+print("i am grade 3")
+print("i like fruits")
+print("i love birds")
+print("i have a brother and sister")
+print("i have a bird")
