@@ -1,0 +1,5 @@
+print("may", 18)
+print("may ",15)
+print("jan" ,3)
+print("april", 16)
+print("september", 10)
