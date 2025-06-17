@@ -13,4 +13,4 @@ elif BMI <=39.9:
 elif BMI <=34.9:
     print("you are healthy")
 else:
-    print("INVAILD VALUES")
+    print("INVAILD VALUES.")
