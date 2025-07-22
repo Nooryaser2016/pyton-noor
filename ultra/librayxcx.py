@@ -4,8 +4,8 @@ class Book:
          self.author = author
          self.year = year
 
-def display_info(self):
-    print(f"📘 '{self.title}' by {self.author} ({self.year})")
+    def display_info(self):
+            print(f"📘 {self.title} by {self.author} {self.year}")
 
 # Create book objects
 book1 = Book("Harry Potter and the Sorcerer's Stone", "J.K. Rowling", 1997)
